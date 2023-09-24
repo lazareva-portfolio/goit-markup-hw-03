@@ -27,7 +27,8 @@ img{
 .container{ 
     max-width: 1158px;
     margin: 0 auto;
-    padding: 0 15px;
+    padding-left: 15px;
+    padding-right: 15px;
     }
 
 /* ----------HEADER-------- */
@@ -47,6 +48,7 @@ img{
     padding-top: 24px;
     padding-bottom: 24px;
     justify-content: space-between;
+
 }
 
 .header-logo, .footer-logo {
